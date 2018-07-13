@@ -1,0 +1,44 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #f6f6e9;
+}
+
+#mainContainer {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-content: center;
+  align-items: center; */
+  /* background-color: #f6f6e9;
+  padding: 0px;
+  margin: 0px; */
+}
+
+#currentBPI {
+  background-color: #194769;
+  color: white;
+}
+
+#chartSelection {
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'sans-serif';
+  /* border: solid 1px red */
+}
+
+#dateSelection{
+  padding: 10px;
+  font-family: 'sans-serif';
+}
+
+.chart {
+  max-width: 50%;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+#calendar {
+  padding: 10px;
+}
